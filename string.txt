@@ -1,6 +1,11 @@
 class Fibonacci
+<<<<<<< HEAD
 { sample comment added
 adding constant pointer
+=======
+{ sample comment
+adding constant pointer in tom
+>>>>>>> 43bf1836c58f21aaa5d35d09032b9fce24734967
 	public static void main(String[] args)
 	{
 	Scanner sc=new Scanner(System.in);
