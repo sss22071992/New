@@ -1,5 +1,6 @@
 class Fibonacci
-{ sample comment
+{ sample comment added
+adding constant pointer
 	public static void main(String[] args)
 	{
 	Scanner sc=new Scanner(System.in);
@@ -20,4 +21,5 @@ class Fibonacci
 	System.out.println(nextTerm);
 	}
 	}
+adding string compare functionality
 }
