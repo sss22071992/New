@@ -1,6 +1,7 @@
 class Fibonacci
 <<<<<<< HEAD
 { sample comment added
+new
 adding constant pointer
 =======
 { sample comment
